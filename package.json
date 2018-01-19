@@ -1,0 +1,20 @@
+{
+  "name": "3d-viewer",
+  "productName": "3Dviewer",
+  "version": "0.0.0",
+  "description": "a js 3Dviewer for .obj file",
+  "private": false,
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "3D",
+    ".obj"
+  ],
+  "author": "YuboonaZhang",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
