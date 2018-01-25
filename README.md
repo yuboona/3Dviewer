@@ -4,13 +4,11 @@
 
 ## What this is
 
-3D Reconstruction and 3D modeling is really popular now.Pix4D, autodesk3D and 3Dcloud are really convenient tools to reconstrut 3D models from photos.
+This is a small app created by js for viewing 3D model files like .mtl .obj .  
 
-But some Opensource software for reconstructions like [OpenDroneMap][1], it **don't supply a tool to view the reconstruction files**.
+**3D Reconstruction and 3D modeling** is really popular now.**Pix4D, autodesk3D and 3Dcloud** are really convenient tools to reconstrut 3D models from photos.But some Opensource software for reconstructions like [OpenDroneMap][1], it **don't supply a tool to view the reconstruction files**.
 
-So I collected a [JS 3Dviewer App][2] from github, then using the [Electron][3] to make a native App for linux.
-
-It's small but useful.
+So I collected a [JS 3Dviewer App][2] from github, then using the [Electron][3] to make a native App for linux. It's small but useful.
 
 [1]: https://github.com/OpenDroneMap/OpenDroneMap
 [2]: https://github.com/kovacsv/Online3DViewer
