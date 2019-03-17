@@ -14,7 +14,7 @@
   ],
   "author": "YuboonaZhang",
   "license": "MIT",
-  "devDependencies": {
-    "electron": "~1.6.2"
+  "dependencies": {
+  "electron": ">=1.8.2-beta5"
   }
 }
